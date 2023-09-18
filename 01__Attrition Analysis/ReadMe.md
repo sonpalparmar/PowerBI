@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of attrition within ou
 - [Key Visualizations](#key-visualizations)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Dashboard Overview
 
@@ -65,10 +65,4 @@ To use this Power BI dashboard:
 
 We welcome contributions to enhance this dashboard or improve the analysis. If you have suggestions, bug reports, or feature requests, please create an issue in the [Issues](https://github.com/yourusername/attrition-analysis/issues) section of this repository.
 
-## License
 
-This dashboard is released under the [MIT License](LICENSE.md).
-
----
-
-Please feel free to modify this template to include specific details about your dashboard, data sources, and any other relevant information. Remember to replace `[Insert screenshot or description]` with actual content and provide proper links to your GitHub repository and releases.
